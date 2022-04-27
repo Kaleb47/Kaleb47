@@ -5,7 +5,7 @@
 ## 😎 About Me
 
 ![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaleb47&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb47)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Once a Finance student at Rutgers, now a full-time blockchain developer. About 1 year later, I never looked back. I specialize in backend development; writing, testing and deploying smart contracts. When developing on an evm based chain, I use solidity, Hardat, ethersjs, chai and mocha to test and deploy the smart contracts. Recently, I've been developing on Solana with Rust and Anchor; I've also experimented with WASM in order to interact with the Javascript virtual machine with Rust. Lastly. I've also project managed both the frontend and backend teams at the [Zap Protocol](https://github.com/zapproject).
 
