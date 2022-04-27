@@ -17,7 +17,7 @@ Once a Finance student at Rutgers, now a full-time blockchain developer. About 1
 
 
 ## 💻 Achievements
-- 🔥 Refactored and tested the smart contracts on Zap NFT Market Place.
+- 🔥 Refactored and tested the smart contracts on [Zap NFT Marketplace](https://app.zap.org/nft-marketplace).
 - 🔥 Contributed to [Crypto Zoo's](https://cryptozoo.co/) smart contracts and tests as a bounty.
 - 🔥 Managed the team that developed and deployed the [Cybershrooms Project](https://cybershrooms.org/) to Solana using Metaplex.
 - 🔥 Contributed to the [Rabbitars NFT Project](https://www.playboy.com/custom/playboy-rabbitars) by developing an ERC1155 Merkle tree, verifying the smart contracts on Polygon, and overseeing the project as a manager. 
