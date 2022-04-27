@@ -19,7 +19,7 @@ Once a Finance student at Rutgers, now a full-time blockchain developer. About 1
 - 🔥 Refactored and tested the smart contracts on Zap NFT Market Place.
 - 🔥 Contributed to [Crypto Zoo's](https://cryptozoo.co/) smart contracts and tests as a bounty.
 - 🔥 Managed the team that developed and deployed the [Cybershrooms Project](https://cybershrooms.org/) to Solana using Metaplex.
-- 🔥 Contributed to the [Rabbitars](https://www.playboy.com/custom/playboy-rabbitars) by developing an ERC1155 Merkle tree, verifying the smart contracts on Polygon, and overseeing the project as a manager. 
+- 🔥 Contributed to the [Rabbitars NFT Project](https://www.playboy.com/custom/playboy-rabbitars) by developing an ERC1155 Merkle tree, verifying the smart contracts on Polygon, and overseeing the project as a manager. 
 - 🔥 Forked and refactored the [Sushiswap](https://github.com/sushiswap/sushiswap) smart contracts needed to build the Zap Dex.
 - 🔥 Managed and oversaw the deployment of [Vote Watcher](https://www.votewatcher.com/).
 
