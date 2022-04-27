@@ -35,6 +35,7 @@ Once a Finance student at Rutgers, now a full-time blockchain developer. About 1
 ## Contant info 📱
 - email: kalebross30@gmail.com
 - [Telegram](https://t.me/KalebAmarante)
+- [LinkedIn](https://www.linkedin.com/in/kaleb-amarante-ba999b183)
 
 
 
