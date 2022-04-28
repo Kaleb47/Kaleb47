@@ -74,6 +74,8 @@ Once a Finance student at Rutgers, now a full-time blockchain developer speciali
 - Polygon
 - Binance Smart Chain
 - Solana
+- Arweave
+- Interplanetary File System (IPFS)
 
 
 ## 💻 Achievements
