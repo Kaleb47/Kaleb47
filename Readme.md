@@ -21,7 +21,7 @@ Once a Finance student at Rutgers, now a full-time blockchain developer speciali
      <a href="https://github.com/search?q=user%3AjungsNN+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3AjungsNN+language%3AtypeScript"><img alt="Swift" src="https://img.shields.io/badge/Swift-ff6347.svg?logo=swift&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AjungsNN+language%3AtypeScript"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-4856fd.svg?logo=haskell&logoColor=white"></a> 
-    <a href="https://github.com/search?q=user%3AjungsNN+language%3AtypeScript"><img alt="Assembly" src="https://img.shields.io/badge/Assembly-007ACC.svg?logo=assembly&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AjungsNN+language%3AtypeScript"><img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-007ACC.svg?logo=assembly&logoColor=white"></a>
      <a href="https://github.com/search?q=user%3AjungsNN+language%3AtypeScript"><img alt="Zsh" src="https://img.shields.io/badge/Zsh-808080.svg?logo=zsh&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AjungsNN+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
  
