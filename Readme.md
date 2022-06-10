@@ -1,13 +1,4 @@
-<h2 align="center"> 🔥Kaleb Amarante, Blockchain Engineer🔥 </h2>
-<div align="center">⚡ Quotes: <strong> Our technology is only as good as our principles. </strong></div>
-<div align="center"> <strong><img src="https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif"/></strong></div>
 
-## 😎 About Me
-
- ![Kaleb's Github Stats](https://github-readme-stats.vercel.app/api?username=Kaleb47&show_icons=true&theme=synthwave)
-
-
-Once a Finance student at Rutgers, now a full-time blockchain developer specializing in smart contract development and cryptography.
 
 ### Languages 👨‍💻 
 
