@@ -87,13 +87,6 @@ Once a Finance student at Rutgers, now a full-time blockchain developer speciali
 - 🔥 Forked and refactored the [Sushiswap](https://github.com/sushiswap/sushiswap) smart contracts needed to build the Zap Dex.
 - 🔥 Managed and oversaw the deployment of [Vote Watcher](https://www.votewatcher.com/).
 
-## References 🧑‍💻
-- ✅ [Eric Manganaro](https://github.com/superposition)
-- ✅ [Jenny Jung](https://github.com/jungsNN)
-- ✅ [Harris Levine](https://github.com/pynchmeister)
-- ✅ [Jamil Bousquet](https://github.com/acemasterjb)
-- ✅ [Nick Spanos](https://github.com/nickspanos)
-- ✅ [Alexander Doo](https://github.com/taejoonn)
 
 ## Contant info 📱
 - email: kalebross30@gmail.com
