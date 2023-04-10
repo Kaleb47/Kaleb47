@@ -48,7 +48,7 @@
       <a href="#"><img alt="Figment" src="https://img.shields.io/badge/Figment-fada5e.svg?logo=Figment&logoColor=white"></a>
           <a href="#"><img alt="Gitpod" src="https://img.shields.io/badge/Gitpod-ff7f50.svg?logo=Gitpod&logoColor=white"></a>
            <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-000000.svg?logo=Supabase&logoColor=green"></a>
-           <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Supabase-000000.svg?logo=mongodb&logoColor=green"></a>
+           <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Mongo-FFFFFF.svg?logo=mongodb&logoColor=green"></a>
           
           
  ### Software and tools 💻 
