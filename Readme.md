@@ -70,6 +70,7 @@
 - Solana
 - Arweave
 - Interplanetary File System (IPFS)
+- Bitcoin/Lightning
 
 
 ## Contant info 📱
