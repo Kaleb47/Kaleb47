@@ -62,6 +62,7 @@
    <a href="#"><img alt="X-Code" src="https://img.shields.io/badge/XCode-00bfff.svg?logo=xcode&logoColor=white"></a>
    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?logo=docker&logoColor=blue"></a>
    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-000000.svg?logo=kubernetes&logoColor=blue"></a>
+   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FFA500.svg?logo=postman&logoColor=white"></a>
 
 
 ### Networks ⛓
